@@ -2,7 +2,7 @@
 
 #### Linux or MacOS
 ```sh
-n="your_name";git clone https://github.com/FilipLitwora/rust-react-template.git $n;cd $n;rm -rf .git; git init;
+npx degit FilipLitwora/rust-react-template project_name
 ```
 ## Available Scripts
 
